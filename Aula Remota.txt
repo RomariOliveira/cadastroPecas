@@ -1,0 +1,9 @@
+Sistema de cadastro de peças
+
+- Peça pode ser cadastrada casp opeso seja maior que 100gr.
+
+- Lista de peças tem capacidade máxima de 10 pçs
+
+- A pç deve ter o nome maior que 2 caracteres, senão mostrar erro
+
+- 
